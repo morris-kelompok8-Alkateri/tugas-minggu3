@@ -16,7 +16,7 @@ ketika aplikasi ditutup.
 
 ## Fitur
 
-1. Login sesi menggunakan NIM, nama, dan program studi.
+1. Login sesi menggunakan NIM, nama, dan Program Studi.
 2. Mencatat jenis serta durasi aktivitas fisik.
 3. Mencatat jumlah konsumsi air.
 4. Mencatat durasi tidur terakhir.
