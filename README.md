@@ -67,7 +67,7 @@ python main.py
 4. Muhammad Idzhar Arsalan
 5. AL-AKBARI (yang akun shafamecca6-beep)
 6. Dary Darwisy Ramdhani
-7. Muhammad Hasfi A P
+7. Muhammad Hasfi Akbar Putra
 
 ==================
 TERIMAKASIH BANYAK
