@@ -45,7 +45,7 @@ Pilihan puskesmas pada menu CKG:
 
 ## Struktur file
 
-- `main.py` — titik masuk program dan alur login.
+- `Main.py` — titik masuk program dan alur login.
 - `data.py` — pilihan program studi, validasi input, dan data sesi.
 - `kesehatan.py` — menu, pencatatan kesehatan, tips, dan ringkasan.
 - `ckg.py` — submenu CKG, pencatatan rencana janji dan permintaan konsultasi,
