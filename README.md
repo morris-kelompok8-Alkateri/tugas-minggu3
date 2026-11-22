@@ -1,4 +1,4 @@
-Aplikasi konsol sederhana untuk membantu mahasiswa mencatat kebiasaan kesehatan
+aplikasi konsol sederhana untuk membantu mahasiswa mencatat kebiasaan kesehatan
 selama sesi aplikasi berjalan. Aplikasi dibuat dengan Python dan tidak
 membutuhkan paket tambahan.
 
